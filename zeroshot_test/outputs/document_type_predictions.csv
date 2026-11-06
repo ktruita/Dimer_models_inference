@@ -1,0 +1,11 @@
+document,true type,predicted,confidence,runner-up
+invoice_1,invoice,invoice,0.933,receipt (0.04)
+invoice_2,invoice,invoice,0.472,bank (0.19)
+invoice_3,invoice,invoice,0.907,receipt (0.06)
+invoice_4,invoice,invoice,0.843,receipt (0.07)
+invoice_5,invoice,invoice,0.498,bank (0.18)
+receipt_1,receipt,invoice,0.58,bank (0.16)
+receipt_2,receipt,bank,0.341,letter (0.29)
+receipt_3,receipt,invoice,0.301,bank (0.29)
+receipt_4,receipt,invoice,0.31,bank (0.26)
+receipt_5,receipt,letter,0.376,paper (0.20)

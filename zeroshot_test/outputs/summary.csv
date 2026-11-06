@@ -1,0 +1,6 @@
+task,n,accuracy,s per text
+AG News topics (plain labels),40,0.575,1.0110505104064942
+AG News topics (descriptive labels),40,0.65,1.126053774356842
+AG News topics (descriptive + template),40,0.625,1.1848213374614716
+IMDB sentiment,20,0.9,1.5293097615242004
+document type (SmolDocling text),10,0.5,13.644993448257447
