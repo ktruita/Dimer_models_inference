@@ -1,0 +1,12 @@
+{"id": "m01", "text": "Typhoon season in the Philippines usually runs from June to November, when most tropical cyclones enter the Philippine Area of Responsibility."}
+{"id": "m02", "text": "Ang jeepney ay isang pampublikong sasakyan sa Pilipinas na nagmula sa mga lumang jeep ng militar ng Amerika pagkatapos ng Ikalawang Digmaang Pandaigdig."}
+{"id": "m03", "text": "Chicken adobo is cooked by simmering chicken in vinegar, soy sauce, garlic, bay leaves and black peppercorns."}
+{"id": "m04", "text": "Photosynthesis lets plants convert sunlight, water and carbon dioxide into glucose and oxygen inside their chloroplasts."}
+{"id": "m05", "text": "To run a batch job on a SLURM cluster, write a job script with #SBATCH options for time, memory and GPUs, then submit it with sbatch."}
+{"id": "m06", "text": "A Python list comprehension builds a new list in one line, for example [x * x for x in range(10)] creates the squares of 0 to 9."}
+{"id": "m07", "text": "Vaccines train the immune system by exposing it to a harmless piece or weakened form of a pathogen, so it can respond faster to a real infection."}
+{"id": "m08", "text": "Ang Bulkang Mayon sa Albay ay kilala sa halos perpektong hugis-kono nito at isa sa mga pinaka-aktibong bulkan sa bansa."}
+{"id": "m09", "text": "Learning rate controls how big each update step is when training a neural network; too high diverges, too low trains slowly."}
+{"id": "m10", "text": "Rice terraces in Banaue were carved into the mountains of Ifugao by hand more than two thousand years ago."}
+{"id": "m11", "text": "Para mag-renew ng pasaporte, kailangang mag-book ng appointment online, dalhin ang lumang pasaporte, at magbayad ng processing fee."}
+{"id": "m12", "text": "A GPU speeds up deep learning because it performs thousands of matrix multiplications in parallel, unlike a CPU with a few cores."}
