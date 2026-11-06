@@ -1,0 +1,14 @@
+901016 -TICKET CP
+
+2 60,000 £0,000
+TOTAL DIS? $ “0,000
+
+TAX 5.455
+
+subtotal 000
+
+TOTAL caty 2.00 60,000
+
+= EDC CINB NIAGA No: xx7730 60.000
+
+emer TUE),

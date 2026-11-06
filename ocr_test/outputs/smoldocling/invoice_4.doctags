@@ -1,0 +1,14 @@
+<doctag><text><loc_41><loc_15><loc_162><loc_24>Invoice no: 56014042</text>
+<text><loc_41><loc_31><loc_104><loc_38>Date of issue:</text>
+<text><loc_242><loc_31><loc_297><loc_38>10/01/2014</text>
+<section_header_level_1><loc_41><loc_95><loc_80><loc_103>Seller:</section_header_level_1>
+<text><loc_41><loc_109><loc_150><loc_123>Nichols-Barajas 3882 Stacy Ville Apt. 488</text>
+<text><loc_41><loc_123><loc_166><loc_130>Lake Kristinatown, ND 48049</text>
+<text><loc_41><loc_138><loc_129><loc_144>Tax Id: 953-87-6813</text>
+<text><loc_254><loc_138><loc_338><loc_144>Tax Id: 965-90-8517</text>
+<text><loc_41><loc_147><loc_189><loc_153>IBAN: GB08KXQT19711661357354</text>
+<section_header_level_1><loc_41><loc_163><loc_75><loc_170>ITEMS</section_header_level_1>
+<otsl><loc_41><loc_177><loc_458><loc_241><ched>No.<ched>Description<ched>Qty<ched>UM<ched>Net price<ched>Net worth<ched>VAT [%]<ched>Gross  worth<nl><fcel>1.<fcel>Jordan Hydro 2 (TD)-Child Size  10c<fcel>2,00<fcel>each<fcel>5,75<fcel>11,50<fcel>10%<fcel>12,65<nl><fcel>2.<fcel>Sketchers Energy Lights Boys  Black Canvas Size 4 With  Charging Cable<fcel>4,00<fcel>each<fcel>12,00<fcel>48,00<fcel>10%<fcel>52,80<nl></otsl>
+<section_header_level_1><loc_41><loc_250><loc_98><loc_257>SUMMARY</section_header_level_1>
+<otsl><loc_41><loc_265><loc_458><loc_303><ecel><ched>VAT [%]<ched>Net worth<ched>VAT<ched>Gross worth<nl><ecel><fcel>10%<fcel>59,50<fcel>5,95<fcel>65,45<nl><ecel><fcel>Total<fcel>$ 59,50<fcel>$ 5,95<fcel>$ 65,45<nl></otsl>
+</doctag>

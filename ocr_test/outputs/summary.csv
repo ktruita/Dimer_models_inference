@@ -1,0 +1,9 @@
+model,docs,values found,% found,avg s / page
+tesseract,invoices,22/25,88,1.6
+tesseract,receipts,4/15,27,0.4
+smoldocling,invoices,23/25,92,19.8
+smoldocling,receipts,7/15,47,13.9
+got_ocr,invoices,23/25,92,9.0
+got_ocr,receipts,12/15,80,2.6
+layoutlm (+tesseract),invoices,21/25,84,7.9
+layoutlm (+tesseract),receipts,1/15,7,1.3

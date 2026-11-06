@@ -1,0 +1,55 @@
+Invoice no: 56014042
+Date of issue:
+10/01/2014
+Seller:
+Nichols-Barajas
+3882 Stacy Ville Apt. 488
+Lake Kristinatown, ND 48049
+Tax Id: 953-87-6813
+IBAN: GB08KXQT19711661357354
+ITEMS
+No.
+Description
+Qty
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+1.
+Jordan Hydro 2 (TD)-Child Size
+10c
+2,00
+each
+5,75
+11,50
+10%
+12,65
+2.
+Sketchers Energy Lights Boys
+Black Canvas Size 4 With
+Charging Cable
+4,00
+each
+12,00
+48,00
+10%
+52,80
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+59,50
+5,95
+65,45
+Total
+$ 59,50
+$ 5,95
+$ 65,45
+Client:
+Mckay PLC
+5542 Danielle Drive Suite 381
+West Mason, ME 76671
+Tax Id: 965-90-8517

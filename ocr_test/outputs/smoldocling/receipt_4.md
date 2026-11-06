@@ -1,0 +1,19 @@
+<!-- image -->
+
+Other
+
+1X DONAT GULA
+
+1.00xITEMS
+
+11,000
+
+SUBTOTAL
+
+11,000
+
+TOTAL CASH
+
+11,000
+
+11,000

@@ -1,0 +1,124 @@
+Invoice no: 13194726
+
+Date of issue:
+
+Seller:
+
+Hopkins and Sons
+62283 Flores Tunnel
+North Luis, |A 69983
+
+Tax Id: 952-73-7223
+IBAN: GB31LZXS20242755934691
+
+ITEMS
+No. Description Qty
+1. Beach Lunch Lounge Striped 1,00
+
+Shirt Dress Large Navy Blue
+White Long Sleeve Causal
+
+2: Jams World Hawaiian [] Dress 5,00
+Rayon sz.L
+
+3. LuLaRoe Nicole Dress Size Large 2,00
+26
+
+4. Johnny Was Medium Linen Wrap 2,00
+Dress Dessert Rose Embroiderd
+Bohemian
+
+5. Eileen Fisher Women's Long 2,00
+
+Sleeve Fleece Lined Front
+Pockets Dress XS Gray
+
+6. Hanna Anderson Women's L 1,00
+
+Large Coral Short Sleeve Casual
+Fall Tee Shirt Dress
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+05/29/2021
+
+UM
+
+each
+
+each
+
+each
+
+each
+
+each
+
+each
+
+Client:
+
+Sims PLC
+USS Kramer
+FPO AA 81651
+
+Tax Id: 995-88-9495
+
+Net price
+
+16,99
+
+65,00
+
+1,99
+
+89,99
+
+15,99
+
+24,00
+
+Net worth
+581,93
+
+$ 581,93
+
+Net worth VAT [%]
+16,99 10%
+325,00 10%
+3,98 10%
+179,98 10%
+31,98 10%
+24,00 10%
+
+VAT
+
+58,19
+
+$ 58,19
+
+Gross
+worth
+
+18,69
+
+357,50
+
+4,38
+
+197,98
+
+35,18
+
+26,40
+
+Gross worth
+
+640,12
+
+$ 640,12

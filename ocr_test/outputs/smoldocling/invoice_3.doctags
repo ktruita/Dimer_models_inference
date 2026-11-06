@@ -1,0 +1,12 @@
+<doctag><text><loc_41><loc_16><loc_163><loc_25>Invoice no: 62517865</text>
+<text><loc_41><loc_30><loc_104><loc_37>Date of issue:</text>
+<text><loc_241><loc_30><loc_297><loc_37>06/02/2015</text>
+<section_header_level_1><loc_41><loc_95><loc_80><loc_103>Seller:</section_header_level_1>
+<text><loc_41><loc_109><loc_150><loc_130>Trujillo-Hunt 430 Mark Ferry Suite 495 Maxside, DC 65686</text>
+<text><loc_41><loc_139><loc_120><loc_145>Tax Id: 992-71-8540</text>
+<text><loc_41><loc_146><loc_191><loc_152>IBAN: GB73HCPH34959888432899</text>
+<section_header_level_1><loc_41><loc_163><loc_76><loc_171>ITEMS</section_header_level_1>
+<otsl><loc_41><loc_177><loc_458><loc_208><ched>No.<ched>Description<ched>Qty<ched>UM<ched>Net price<ched>Net worth<ched>VAT [%]<ched>Gross  worth<nl><fcel>1.<fcel>Care & Repair of Furniture<fcel>2,00<fcel>each<fcel>4,25<fcel>8,50<fcel>10%<fcel>9,35<nl></otsl>
+<section_header_level_1><loc_41><loc_219><loc_100><loc_227>SUMMARY</section_header_level_1>
+<otsl><loc_41><loc_233><loc_458><loc_274><ecel><ched>VAT [%]<ched>Net worth<ched>VAT<ched>Gross worth<nl><ecel><fcel>10%<fcel>8,50<fcel>0,85<fcel>9,35<ecel><ecel><nl><ecel><fcel>Total<fcel>$ 8,50<fcel>$ 0,85<fcel>$ 9,35<ecel><ecel><nl></otsl>
+</doctag>
