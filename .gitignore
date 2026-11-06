@@ -1,0 +1,13 @@
+# Model weights: downloaded automatically on first run (too big for GitHub)
+object_detection_test/weights/
+flood_segmentation_test/hf_model/
+
+# Personal recordings
+asr_test/outputs/mic_recording.wav
+asr_test/my_audio/*
+!asr_test/my_audio/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
