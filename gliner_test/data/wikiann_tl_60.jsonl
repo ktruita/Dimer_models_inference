@@ -1,0 +1,60 @@
+{"tokens": ["Ang", "ay", "isang", "''passing", "loop", "''", "na", "makikita", "sa", "Shizukuishi", ",", "Iwate", "."], "entities": [[9, 12, "LOC"]]}
+{"tokens": ["Ariel", "Ureta", "-", "''ipinakikilala", "''"], "entities": [[0, 2, "PER"]]}
+{"tokens": ["Kagawaran", "ng", "Turismo", "(", "Pilipinas", ")"], "entities": [[0, 6, "ORG"]]}
+{"tokens": ["Partido", "ng", "Koalisyon", "Moderata", "(", "Suwesya", ")"], "entities": [[0, 7, "ORG"]]}
+{"tokens": ["Sinundan", "siya", "sa", "pagkakinatawan", "ni", "Siy\u0101mak", "Mosaddegh", "."], "entities": [[5, 7, "ORG"]]}
+{"tokens": ["Yogurt", "na", "pinatigas", "sa", "lamig"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["'", "''", "Fidel", "V.", "Ramos", "''", "'"], "entities": [[2, 5, "ORG"]]}
+{"tokens": ["Isdang", "pilak", "(", "kulisap", ")"], "entities": [[0, 5, "LOC"]]}
+{"tokens": ["'", "''", "Pasto", "''", "'"], "entities": [[2, 3, "LOC"]]}
+{"tokens": ["**", "Yangon", "(", "Embahada", ")"], "entities": [[1, 2, "LOC"]]}
+{"tokens": ["Unang", "Aklat", "ng", "mga", "Macabeo"], "entities": [[0, 5, "PER"]]}
+{"tokens": ["Anak", "siya", "ni", "Martin", "Luther", "King", ",", "Sr", "."], "entities": [[3, 9, "PER"]]}
+{"tokens": ["Juan", "Carlos", "I", "ng", "Espanya"], "entities": [[0, 5, "PER"]]}
+{"tokens": ["Mga", "dinastiya", "sa", "kasaysayan", "ng", "Tsina"], "entities": [[0, 6, "ORG"]]}
+{"tokens": ["Pambansang", "Pangasiwaan", "sa", "Kabuhayan", "at", "Pagpapaunlad", "(", "Pilipinas", ")"], "entities": [[0, 9, "ORG"]]}
+{"tokens": ["Ultimate", "Collection", "(", "album", "ng", "Black", "'n", "Blue", ")"], "entities": [[0, 9, "ORG"]]}
+{"tokens": ["''", "Extra", "Challenge", "''", "(", "2003\u20132006", ",", "2012\u20132013", ")"], "entities": [[1, 3, "ORG"]]}
+{"tokens": ["'", "''", "Tuvalu", "''", "'"], "entities": [[2, 3, "LOC"]]}
+{"tokens": ["Suriang", "Asyano", "ng", "Araling", "Pandagat"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["Si", "Richard", "Stallman", "ang", "ama", "nito", "."], "entities": [[1, 3, "PER"]]}
+{"tokens": ["'", "''", "Abha", "''", "'"], "entities": [[2, 3, "LOC"]]}
+{"tokens": ["**", "''", "Survivor", "Philippines", ":", "Palau", "''", "(", "2009", ")"], "entities": [[2, 6, "ORG"]]}
+{"tokens": ["Ikaanim", "na", "Dinastiya", "ng", "Ehipto"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["Lumbaca-Unayan", ",", "Lanao", "del", "Sur"], "entities": [[0, 5, "LOC"]]}
+{"tokens": ["Romano", "Katolikong", "Diyosesis", "ng", "Jeju"], "entities": [[0, 5, "LOC"]]}
+{"tokens": ["Mga", "comune", "ng", "Lalawigan", "ng", "Torino"], "entities": [[0, 6, "LOC"]]}
+{"tokens": ["(", "6", ")", "Aparatong", "Golgi"], "entities": [[3, 5, "LOC"]]}
+{"tokens": ["''", "Dingdong", "Dantes", "''", "'"], "entities": [[1, 3, "PER"]]}
+{"tokens": ["1", "''", "na", "manlalarong", "si", "Serena", "Williams", "."], "entities": [[5, 7, "PER"]]}
+{"tokens": ["Keempee", "de", "Leon", "(", "2008", ")"], "entities": [[0, 3, "PER"]]}
+{"tokens": ["Planters", "Development", "Bank", "(", "Plantersbank", ")"], "entities": [[0, 3, "ORG"]]}
+{"tokens": ["Talaan", "ng", "mga", "Pangulo", "ng", "Madagaskar"], "entities": [[0, 6, "ORG"]]}
+{"tokens": ["Q", "(", "himpilang", "pantelebisyon", ")"], "entities": [[0, 5, "LOC"]]}
+{"tokens": ["**", "''", "Snow", "White", "Lady", "and", "the", "Seven", "Ghosts", "''", "(", "2011", ")"], "entities": [[2, 9, "ORG"]]}
+{"tokens": ["Mga", "Kolehiyong", "Sentral", "ng", "Pilipinas"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["Departamento", "(", "subdibisyon", "ng", "bansa", ")"], "entities": [[0, 6, "ORG"]]}
+{"tokens": ["'", "''", "Barangaw", "''", "'", "-", "ginampanan", "ni", "'", "''", "Will", "Devaughn", "''", "'", ";"], "entities": [[10, 12, "PER"]]}
+{"tokens": ["Ina", ",", "Kapatid", ",", "Anak"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["War", "of", "Money", "(", "\uca50\uc758", "\uc804\uc7c1", ")"], "entities": [[0, 3, "ORG"]]}
+{"tokens": ["Kinatawan", "Florencio", "Abad", "(", "1999\u20132004", ")"], "entities": [[0, 1, "PER"], [1, 3, "PER"]]}
+{"tokens": ["Estasyon", "ng", "Quirino", "ng", "LRT"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["Kampo", "ng", "konsentrasyon", "sa", "Auschwitz"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["``", "Muling", "Buksan", "Ang", "Puso", "''"], "entities": [[1, 5, "ORG"]]}
+{"tokens": ["Sistemang", "panlangit", "ng", "mga", "koordinato"], "entities": [[0, 5, "LOC"]]}
+{"tokens": ["Ito", "ay", "pinangungunahan", "ni", "Julius", "Babao", ",", "Pinky", "Webb", "at", "Anthony", "Taberna", "."], "entities": [[4, 6, "PER"], [7, 9, "PER"], [10, 12, "PER"]]}
+{"tokens": ["The", "Ruff", "&", "Reddy", "Show"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["'", "''", "Bembol", "Roco", "''", "'"], "entities": [[2, 4, "PER"]]}
+{"tokens": ["Godod", ",", "Zamboanga", "del", "Norte"], "entities": [[0, 5, "LOC"]]}
+{"tokens": ["Walang", "arkeolohikal", "na", "ebidensiya", "na", "nagpapatunay", "na", "umiral", "si", "Hesus", "sa", "mundo", "."], "entities": [[9, 10, "PER"]]}
+{"tokens": ["Siya", "ang", "maybahay", "ni", "Dawn", "Zulueta", "."], "entities": [[4, 6, "PER"]]}
+{"tokens": ["Kilusang", "Pandaigdig", "ng", "Krus", "na", "Pula", "at", "Gasuklay", "na", "Pula"], "entities": [[0, 10, "ORG"]]}
+{"tokens": ["Iron", "Maiden", "(", "komiks", ")"], "entities": [[0, 5, "PER"]]}
+{"tokens": ["Yogurt", "na", "pinatigas", "sa", "lamig"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["'", "''", "Ejay", "Falcon", "''", "'"], "entities": [[2, 4, "PER"]]}
+{"tokens": ["Mga", "pag-atake", "noong", "Setyembre", "11"], "entities": [[0, 5, "ORG"]]}
+{"tokens": ["K\u014dfu", "(", "''Kabisera", "''", ")"], "entities": [[0, 1, "LOC"]]}
+{"tokens": ["Dionysus", "(", "Marvel", "Comics", ")"], "entities": [[0, 5, "PER"]]}
+{"tokens": ["Awtonomong", "Rehiyon", "sa", "Muslim", "Mindanao"], "entities": [[0, 5, "LOC"]]}
+{"tokens": ["Marian", "Rivera", "(", "2008\u2014kasalukuyan", ")"], "entities": [[0, 2, "PER"]]}
+{"tokens": ["'", "''", "Bahamas", "''", "'"], "entities": [[2, 3, "LOC"]]}

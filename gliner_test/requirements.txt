@@ -1,0 +1,17 @@
+# GLiNER multi-v2.1 (env: gliner, Python 3.12)
+# Install the CPU build of torch first, otherwise pip pulls the large CUDA build:
+#   pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+# (on a GPU machine skip the first line)
+torch==2.15.0
+gliner==0.2.29
+transformers==5.16.1
+huggingface_hub==1.33.0
+sentencepiece==0.2.2
+protobuf==7.36.2
+numpy==2.5.4
+pandas==3.1.1
+pyarrow==26.0.1
+matplotlib==3.11.2
+jinja2==3.1.6
+ipykernel==7.4.0

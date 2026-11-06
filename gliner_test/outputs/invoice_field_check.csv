@@ -1,0 +1,46 @@
+doc,field,label asked,expected,found,GLiNER returned
+invoice_1,invoice_no,invoice number,97159829,True,97159829
+invoice_1,invoice_date,date,09/18/2015,True,Date of issue; 09/18/2015
+invoice_1,seller_tax_id,tax identification number,985-73-8194,True,985-73-8194; 994-72-1270
+invoice_1,client_tax_id,tax identification number,994-72-1270,True,985-73-8194; 994-72-1270
+invoice_1,iban,bank account number (IBAN),GB81LZWO32519172531418,True,IBAN; GB81LZWO32519172531418
+invoice_1,total_gross_worth,total amount of money,"978,12",False,
+invoice_2,invoice_no,invoice number,13194726,True,13194726
+invoice_2,invoice_date,date,05/29/2021,True,Date of issue; 05/29/2021
+invoice_2,seller_tax_id,tax identification number,952-73-7223,True,952-73-7223; 995-88-9495
+invoice_2,client_tax_id,tax identification number,995-88-9495,True,952-73-7223; 995-88-9495
+invoice_2,iban,bank account number (IBAN),GB31LZX520242755934691,False,IBAN; GB31LZXS20242755934691
+invoice_2,total_gross_worth,total amount of money,"640,12",False,581
+invoice_3,invoice_no,invoice number,62517865,True,62517865
+invoice_3,invoice_date,date,06/02/2015,True,Date of issue; 06/02/2015
+invoice_3,seller_tax_id,tax identification number,992-71-8540,True,992-71-8540; GB73HCPH34959888432899
+invoice_3,client_tax_id,tax identification number,929-86-0601,False,992-71-8540; GB73HCPH34959888432899
+invoice_3,iban,bank account number (IBAN),GB73HCPH34959888432899,False,IBAN
+invoice_3,total_gross_worth,total amount of money,"9,35",False,
+invoice_4,invoice_no,invoice number,56014042,True,56014042
+invoice_4,invoice_date,date,10/01/2014,True,Date of issue; 10/01/2014
+invoice_4,seller_tax_id,tax identification number,953-87-6813,True,953-87-6813; Tax Id
+invoice_4,client_tax_id,tax identification number,965-90-8517,False,953-87-6813; Tax Id
+invoice_4,iban,bank account number (IBAN),GB08KXQT197119711661357354,False,965-90-8517; IBAN; GB08KXQT19711661357354
+invoice_4,total_gross_worth,total amount of money,"65,45",False,
+invoice_5,invoice_no,invoice number,16662010,True,Invoice no; 16662010
+invoice_5,invoice_date,date,08/28/2016,True,Date of issue; 08/28/2016
+invoice_5,seller_tax_id,tax identification number,959-84-2124,False,938-85-4960
+invoice_5,client_tax_id,tax identification number,938-85-4960,True,938-85-4960
+invoice_5,iban,bank account number (IBAN),GB20BAKH22085364527355,True,959-84-2124; 938-85-4960; IBAN; GB20BAKH22085364527355
+invoice_5,total_gross_worth,total amount of money,"2259,10",False,
+receipt_1,total_price,total amount of money,60.000,True,160.000; 60.000
+receipt_1,subtotal_price,subtotal amount of money,60.000,False,
+receipt_2,total_price,total amount of money,91000,True,91000
+receipt_2,cashprice,cash amount paid,91000,False,
+receipt_3,total_price,total amount of money,"28,000",False,
+receipt_3,subtotal_price,subtotal amount of money,"28,000",False,
+receipt_3,cashprice,cash amount paid,"100,000",False,
+receipt_3,changeprice,change amount returned,"72,000",False,
+receipt_4,total_price,total amount of money,"11,000",True,"11,000; TOTAL CASH"
+receipt_4,subtotal_price,subtotal amount of money,"11,000",False,
+receipt_4,cashprice,cash amount paid,"11,000",False,
+receipt_5,total_price,total amount of money,"174,600",False,
+receipt_5,subtotal_price,subtotal amount of money,"194,000",False,
+receipt_5,cashprice,cash amount paid,"200,000",False,
+receipt_5,changeprice,change amount returned,"25,400",False,
