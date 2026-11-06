@@ -1,0 +1,66 @@
+{
+  "breast_cancer": {
+    "task": "classification",
+    "rows": 569,
+    "features": 30,
+    "categorical": 0,
+    "missing_cells": 0,
+    "description": "tumour measurements -> malignant / benign"
+  },
+  "wine": {
+    "task": "classification",
+    "rows": 178,
+    "features": 13,
+    "categorical": 0,
+    "missing_cells": 0,
+    "description": "chemical analysis -> 3 grape cultivars"
+  },
+  "adult_income": {
+    "task": "classification",
+    "rows": 2000,
+    "features": 14,
+    "categorical": 8,
+    "missing_cells": 275,
+    "description": "census record -> income >50K or <=50K"
+  },
+  "credit_risk": {
+    "task": "classification",
+    "rows": 1000,
+    "features": 20,
+    "categorical": 13,
+    "missing_cells": 0,
+    "description": "loan applicant -> good / bad credit risk"
+  },
+  "diabetes": {
+    "task": "regression",
+    "rows": 442,
+    "features": 10,
+    "categorical": 0,
+    "missing_cells": 0,
+    "description": "patient measurements -> disease progression after 1 year"
+  },
+  "california_housing": {
+    "task": "regression",
+    "rows": 2000,
+    "features": 8,
+    "categorical": 0,
+    "missing_cells": 0,
+    "description": "census block -> median house value (USD)"
+  },
+  "abalone": {
+    "task": "regression",
+    "rows": 2000,
+    "features": 8,
+    "categorical": 1,
+    "missing_cells": 0,
+    "description": "shell measurements -> age in rings"
+  },
+  "house_prices": {
+    "task": "regression",
+    "rows": 1460,
+    "features": 79,
+    "categorical": 43,
+    "missing_cells": 6965,
+    "description": "Ames house features -> sale price (USD)"
+  }
+}
