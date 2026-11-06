@@ -1,0 +1,19 @@
+# Toto 2 / TiRex-2 / Chronos-2 (env: forecast, Python >= 3.12 required by toto-models)
+# Install the CPU build of torch first, otherwise pip pulls the large CUDA build:
+#   pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+# (on a GPU machine skip the first line)
+torch==2.15.0
+toto-models==1.0.0
+tirex-2==0.4.0
+chronos-forecasting==2.3.2
+transformers==5.22.1
+accelerate==1.15.0
+einops==0.8.2
+numpy==2.5.4
+pandas==2.3.3
+pyarrow==26.0.0
+matplotlib==3.11.2
+jinja2==3.1.6
+ipykernel==7.4.0
+# TiRex-2: the notebook sets TORCHDYNAMO_DISABLE=1 because torch.compile needs a C++ compiler

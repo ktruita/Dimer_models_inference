@@ -1,0 +1,5 @@
+,mean MASE,wins (best MASE),mean 80% coverage (%),load s,avg s / series
+SeasonalNaive,1.451,0,60.024,,0.001
+Toto-313m,0.968,2,72.432,4.646,0.54
+TiRex-2,1.042,2,71.411,8.468,0.129
+Chronos-2,0.902,6,79.138,1.383,0.184

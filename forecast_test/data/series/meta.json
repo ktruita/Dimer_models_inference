@@ -1,0 +1,72 @@
+{
+  "01_airline_passengers": {
+    "freq": "MS",
+    "horizon": 24,
+    "season": 12,
+    "unit": "passengers (thousands)",
+    "length": 144
+  },
+  "02_co2_mauna_loa": {
+    "freq": "MS",
+    "horizon": 36,
+    "season": 12,
+    "unit": "CO2 (ppm)",
+    "length": 823
+  },
+  "03_sunspots": {
+    "freq": "MS",
+    "horizon": 60,
+    "season": 132,
+    "unit": "sunspot number",
+    "length": 2048
+  },
+  "04_melbourne_min_temp": {
+    "freq": "D",
+    "horizon": 60,
+    "season": 365,
+    "unit": "min temperature (C)",
+    "length": 3652
+  },
+  "05_female_births": {
+    "freq": "D",
+    "horizon": 30,
+    "season": 7,
+    "unit": "births per day",
+    "length": 365
+  },
+  "06_car_sales": {
+    "freq": "MS",
+    "horizon": 12,
+    "season": 12,
+    "unit": "cars sold",
+    "length": 108
+  },
+  "07_ett_oil_temp": {
+    "freq": "h",
+    "horizon": 96,
+    "season": 24,
+    "unit": "oil temperature (C)",
+    "length": 3000
+  },
+  "08_ett_load": {
+    "freq": "h",
+    "horizon": 96,
+    "season": 24,
+    "unit": "high useful load",
+    "length": 3000
+  },
+  "09_bike_hourly": {
+    "freq": "h",
+    "horizon": 168,
+    "season": 168,
+    "unit": "rentals per hour",
+    "length": 3000
+  },
+  "10_bike_daily": {
+    "freq": "D",
+    "horizon": 30,
+    "season": 7,
+    "unit": "rentals per day",
+    "length": 731
+  }
+}
