@@ -1,0 +1,4 @@
+input,audio s,processing s,WER %,real-time factor
+LibriSpeech (10 clips),109.69999999999997,162.50000000000003,3.86,1.48
+long clip (timestamps),62.5,66.9,,1.07
+Tagalog FLEURS (10 clips),140.5,196.79999999999998,13.3,1.4
