@@ -1,0 +1,12 @@
+# Prithvi-EO-2.0-300M-TL Sen1Floods11 (env: prithvi, Python 3.11; matches the model repo's requirements)
+terratorch==0.99.8
+torch==2.6.0
+torchvision==0.21.0
+timm==1.0.31
+einops==0.8.0
+rasterio==1.4.3
+numpy==1.26.4
+pyyaml==6.0.3
+huggingface_hub==2.4.0
+matplotlib==3.11.2
+ipykernel==7.4.0
