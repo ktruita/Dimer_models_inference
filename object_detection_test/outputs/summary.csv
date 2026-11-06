@@ -1,0 +1,6 @@
+model,device,load_s,avg_s_per_image,total_detections
+YOLOX-S,cpu,0.4,0.41,61
+YOLOX-X,cpu,1.8,2.02,71
+RT-DETR-R50VD,cpu,2.0,4.73,73
+OWLv2-base16-ensemble,cpu,2.5,7.75,38
+GroundingDINO-tiny,cpu,3.7,13.07,31

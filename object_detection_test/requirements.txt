@@ -1,0 +1,16 @@
+# YOLOX / RT-DETR / OWLv2 / Grounding DINO (env: detect, Python 3.12)
+# Install the CPU build of torch first, otherwise pip pulls the large CUDA build:
+#   pip install torch==2.15.0 torchvision==0.29.2 --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+# (on a GPU machine skip the first line)
+torch==2.15.0
+torchvision==0.29.2
+transformers==5.22.1
+huggingface_hub==2.4.0
+onnxruntime==1.31.1          # onnxruntime-gpu on a GPU machine
+opencv-python-headless==5.0.0.93
+pillow==13.0.0
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+ipykernel==7.4.0

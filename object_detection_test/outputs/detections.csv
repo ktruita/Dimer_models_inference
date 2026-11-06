@@ -1,0 +1,275 @@
+model,image,label,score,x1,y1,x2,y2
+YOLOX-S,01_cats_remotes,cat,0.927,4.7,54.9,318.4,471.0
+YOLOX-S,01_cats_remotes,cat,0.924,341.4,25.2,635.9,372.8
+YOLOX-S,01_cats_remotes,remote,0.641,335.2,77.9,370.2,186.6
+YOLOX-S,01_cats_remotes,remote,0.64,39.9,73.6,174.1,118.1
+YOLOX-S,01_cats_remotes,bed,0.582,-10.1,4.0,636.1,475.9
+YOLOX-S,02_living_room,tv,0.915,6.3,165.8,155.7,261.7
+YOLOX-S,02_living_room,chair,0.855,292.6,216.2,353.4,315.1
+YOLOX-S,02_living_room,tv,0.85,559.6,208.9,640.3,292.3
+YOLOX-S,02_living_room,chair,0.838,361.2,216.7,415.9,315.5
+YOLOX-S,02_living_room,chair,0.817,402.1,220.1,443.3,311.3
+YOLOX-S,02_living_room,person,0.78,420.4,156.3,465.6,298.7
+YOLOX-S,02_living_room,refrigerator,0.658,446.1,169.3,513.0,287.4
+YOLOX-S,02_living_room,potted plant,0.645,227.2,174.8,267.2,214.6
+YOLOX-S,02_living_room,bottle,0.603,550.7,303.4,585.9,401.5
+YOLOX-S,02_living_room,dining table,0.585,306.3,221.6,428.1,314.0
+YOLOX-S,02_living_room,vase,0.511,241.0,196.4,254.0,213.4
+YOLOX-S,03_group_of_kids,person,0.92,505.2,190.4,639.5,478.0
+YOLOX-S,03_group_of_kids,person,0.916,117.0,150.8,199.0,380.9
+YOLOX-S,03_group_of_kids,person,0.893,265.7,95.3,354.3,418.1
+YOLOX-S,03_group_of_kids,person,0.889,406.3,212.8,522.3,487.2
+YOLOX-S,03_group_of_kids,person,0.885,331.9,151.3,416.7,460.9
+YOLOX-S,03_group_of_kids,person,0.839,437.2,107.4,497.8,223.1
+YOLOX-S,03_group_of_kids,person,0.829,44.1,185.9,110.0,392.8
+YOLOX-S,03_group_of_kids,tennis racket,0.819,46.7,302.1,94.1,395.7
+YOLOX-S,03_group_of_kids,person,0.798,385.9,156.6,468.1,467.7
+YOLOX-S,03_group_of_kids,person,0.788,188.6,119.8,272.3,406.4
+YOLOX-S,03_group_of_kids,handbag,0.75,19.8,235.9,68.8,347.3
+YOLOX-S,03_group_of_kids,tennis racket,0.677,196.4,222.2,271.1,332.9
+YOLOX-S,03_group_of_kids,person,0.555,406.7,119.8,443.6,166.9
+YOLOX-S,03_group_of_kids,person,0.534,350.6,122.3,401.0,209.8
+YOLOX-S,03_group_of_kids,person,0.519,398.3,119.4,443.9,219.6
+YOLOX-S,03_group_of_kids,tennis racket,0.511,90.6,222.9,109.8,303.3
+YOLOX-S,04_street_cars,car,0.927,263.8,232.3,375.0,304.0
+YOLOX-S,04_street_cars,car,0.909,480.1,235.0,567.6,286.6
+YOLOX-S,04_street_cars,car,0.89,596.2,242.8,639.7,277.2
+YOLOX-S,04_street_cars,car,0.886,172.7,236.3,269.2,298.2
+YOLOX-S,04_street_cars,car,0.871,407.2,234.8,481.3,283.6
+YOLOX-S,04_street_cars,car,0.833,553.1,241.7,585.5,279.3
+YOLOX-S,04_street_cars,person,0.78,148.7,221.1,172.7,296.6
+YOLOX-S,04_street_cars,person,0.646,257.9,228.1,271.3,249.1
+YOLOX-S,04_street_cars,truck,0.564,21.6,217.2,122.7,324.2
+YOLOX-S,04_street_cars,car,0.526,460.8,230.4,506.3,254.6
+YOLOX-S,04_street_cars,car,0.524,24.5,231.2,122.4,327.3
+YOLOX-S,05_sidewalk_people,person,0.938,6.0,163.1,133.8,398.6
+YOLOX-S,05_sidewalk_people,person,0.928,507.4,170.6,632.5,383.6
+YOLOX-S,05_sidewalk_people,person,0.922,325.5,171.1,397.6,373.2
+YOLOX-S,05_sidewalk_people,traffic light,0.654,338.0,43.5,400.0,103.5
+YOLOX-S,05_sidewalk_people,umbrella,0.54,560.3,89.2,639.9,156.0
+YOLOX-S,06_kitchen,person,0.897,386.5,69.4,498.1,353.9
+YOLOX-S,06_kitchen,bowl,0.809,29.9,344.2,99.3,385.0
+YOLOX-S,06_kitchen,bowl,0.799,154.7,169.3,182.4,184.4
+YOLOX-S,06_kitchen,bowl,0.756,60.5,287.8,134.2,327.6
+YOLOX-S,06_kitchen,oven,0.63,1.1,188.3,194.0,294.5
+YOLOX-S,06_kitchen,dining table,0.529,0.1,227.9,352.8,424.7
+YOLOX-S,06_kitchen,person,0.509,0.3,262.2,61.8,305.0
+YOLOX-S,06_kitchen,potted plant,0.506,0.1,1.0,63.0,149.9
+YOLOX-S,06_kitchen,spoon,0.503,539.1,45.1,553.5,128.0
+YOLOX-S,07_stop_sign,stop sign,0.963,119.4,72.1,256.1,226.3
+YOLOX-S,08_dog_clutter,dog,0.906,71.0,115.6,216.2,357.1
+YOLOX-S,08_dog_clutter,book,0.706,84.9,328.6,194.3,425.2
+YOLOX-S,08_dog_clutter,bed,0.586,15.9,148.7,642.1,420.4
+YOLOX-X,01_cats_remotes,couch,0.969,1.6,0.7,639.0,474.2
+YOLOX-X,01_cats_remotes,cat,0.948,346.0,26.5,639.3,373.4
+YOLOX-X,01_cats_remotes,cat,0.941,11.7,52.4,318.1,469.3
+YOLOX-X,01_cats_remotes,remote,0.933,40.2,73.2,175.3,118.1
+YOLOX-X,01_cats_remotes,remote,0.912,333.4,77.2,370.8,185.9
+YOLOX-X,02_living_room,tv,0.938,6.0,166.5,154.7,261.7
+YOLOX-X,02_living_room,chair,0.897,293.4,218.1,352.3,318.5
+YOLOX-X,02_living_room,chair,0.886,361.3,219.9,415.0,317.7
+YOLOX-X,02_living_room,chair,0.868,408.4,220.9,442.5,311.6
+YOLOX-X,02_living_room,person,0.86,412.1,157.1,464.2,298.8
+YOLOX-X,02_living_room,tv,0.829,558.5,207.9,639.3,288.1
+YOLOX-X,02_living_room,vase,0.772,550.4,307.1,586.4,400.8
+YOLOX-X,02_living_room,dining table,0.765,305.5,217.9,447.3,318.2
+YOLOX-X,02_living_room,dining table,0.758,460.8,352.1,640.1,424.1
+YOLOX-X,02_living_room,vase,0.707,242.2,197.6,253.5,212.8
+YOLOX-X,02_living_room,bottle,0.661,550.5,304.0,586.3,400.9
+YOLOX-X,02_living_room,refrigerator,0.654,491.3,172.4,513.3,283.5
+YOLOX-X,02_living_room,potted plant,0.57,232.0,171.7,265.6,212.7
+YOLOX-X,02_living_room,vase,0.544,351.3,207.1,362.3,231.0
+YOLOX-X,03_group_of_kids,person,0.948,504.1,190.0,639.2,479.0
+YOLOX-X,03_group_of_kids,person,0.936,115.7,150.1,197.2,380.2
+YOLOX-X,03_group_of_kids,person,0.933,410.8,211.1,523.4,477.0
+YOLOX-X,03_group_of_kids,person,0.923,330.0,151.3,416.4,463.1
+YOLOX-X,03_group_of_kids,person,0.92,265.1,96.4,354.9,414.0
+YOLOX-X,03_group_of_kids,person,0.91,187.7,119.8,270.8,397.1
+YOLOX-X,03_group_of_kids,person,0.902,44.0,185.8,111.5,390.1
+YOLOX-X,03_group_of_kids,person,0.886,436.5,107.6,499.3,224.5
+YOLOX-X,03_group_of_kids,tennis racket,0.871,46.8,298.8,95.6,393.7
+YOLOX-X,03_group_of_kids,person,0.839,389.1,155.7,463.6,473.8
+YOLOX-X,03_group_of_kids,handbag,0.705,18.8,228.6,74.3,347.5
+YOLOX-X,03_group_of_kids,person,0.656,352.6,122.4,401.3,210.1
+YOLOX-X,03_group_of_kids,person,0.582,400.7,120.0,444.2,226.7
+YOLOX-X,03_group_of_kids,person,0.547,406.6,119.7,443.5,166.3
+YOLOX-X,03_group_of_kids,tennis racket,0.533,211.6,217.3,272.6,314.1
+YOLOX-X,04_street_cars,car,0.938,263.9,233.2,374.3,303.9
+YOLOX-X,04_street_cars,car,0.931,480.1,235.4,567.0,286.0
+YOLOX-X,04_street_cars,car,0.928,173.6,237.5,271.5,297.2
+YOLOX-X,04_street_cars,car,0.927,408.7,235.7,482.0,283.3
+YOLOX-X,04_street_cars,car,0.907,596.7,242.3,639.7,277.6
+YOLOX-X,04_street_cars,car,0.88,553.9,241.4,586.6,279.9
+YOLOX-X,04_street_cars,person,0.844,150.4,224.5,169.8,294.3
+YOLOX-X,04_street_cars,person,0.785,258.4,228.0,271.0,246.6
+YOLOX-X,04_street_cars,car,0.757,100.9,241.9,128.9,276.2
+YOLOX-X,04_street_cars,person,0.721,187.4,227.1,203.5,248.3
+YOLOX-X,04_street_cars,car,0.705,460.2,230.2,516.7,256.1
+YOLOX-X,04_street_cars,truck,0.596,29.8,229.1,123.0,326.2
+YOLOX-X,04_street_cars,car,0.532,28.8,214.3,104.0,266.6
+YOLOX-X,04_street_cars,truck,0.508,29.2,213.8,103.2,267.0
+YOLOX-X,05_sidewalk_people,person,0.956,3.8,167.2,132.3,394.1
+YOLOX-X,05_sidewalk_people,person,0.956,508.6,171.4,633.6,385.9
+YOLOX-X,05_sidewalk_people,person,0.938,326.9,173.3,397.8,372.9
+YOLOX-X,05_sidewalk_people,traffic light,0.849,338.8,44.7,399.8,103.9
+YOLOX-X,05_sidewalk_people,umbrella,0.842,560.4,89.9,639.6,154.4
+YOLOX-X,05_sidewalk_people,cup,0.55,345.3,228.3,356.0,247.7
+YOLOX-X,06_kitchen,person,0.94,384.3,68.4,499.9,352.7
+YOLOX-X,06_kitchen,bowl,0.923,30.8,343.1,100.0,385.7
+YOLOX-X,06_kitchen,bowl,0.821,61.6,288.3,133.8,328.3
+YOLOX-X,06_kitchen,bowl,0.813,0.1,303.2,86.2,370.4
+YOLOX-X,06_kitchen,person,0.793,-0.0,263.1,62.6,300.4
+YOLOX-X,06_kitchen,bowl,0.791,153.9,168.6,183.6,185.3
+YOLOX-X,06_kitchen,spoon,0.777,532.4,44.8,553.7,127.4
+YOLOX-X,06_kitchen,knife,0.751,217.4,238.9,239.8,267.5
+YOLOX-X,06_kitchen,oven,0.735,489.7,198.9,620.1,346.2
+YOLOX-X,06_kitchen,spoon,0.649,519.7,46.8,533.5,112.4
+YOLOX-X,06_kitchen,oven,0.616,232.1,194.7,401.2,313.9
+YOLOX-X,06_kitchen,potted plant,0.557,0.2,0.2,63.3,149.0
+YOLOX-X,07_stop_sign,stop sign,0.969,119.1,70.6,254.9,226.2
+YOLOX-X,07_stop_sign,stop sign,0.696,202.6,260.1,220.8,286.1
+YOLOX-X,08_dog_clutter,dog,0.946,71.5,118.6,216.8,370.7
+YOLOX-X,08_dog_clutter,bed,0.905,-0.6,261.1,636.4,422.2
+YOLOX-X,08_dog_clutter,book,0.59,84.5,328.8,257.3,425.3
+RT-DETR-R50VD,01_cats_remotes,sofa,0.97,0.1,0.4,640.1,476.2
+RT-DETR-R50VD,01_cats_remotes,cat,0.96,343.4,24.3,640.1,371.5
+RT-DETR-R50VD,01_cats_remotes,cat,0.958,13.2,54.2,319.0,472.2
+RT-DETR-R50VD,01_cats_remotes,remote,0.951,40.1,73.4,176.0,118.5
+RT-DETR-R50VD,01_cats_remotes,remote,0.924,333.7,76.6,370.0,187.0
+RT-DETR-R50VD,02_living_room,tvmonitor,0.944,6.2,166.1,154.1,262.1
+RT-DETR-R50VD,02_living_room,chair,0.916,293.9,217.8,352.7,318.6
+RT-DETR-R50VD,02_living_room,chair,0.914,362.0,218.8,415.4,318.2
+RT-DETR-R50VD,02_living_room,chair,0.869,410.7,219.4,442.4,307.8
+RT-DETR-R50VD,02_living_room,person,0.861,417.6,157.6,464.7,295.9
+RT-DETR-R50VD,02_living_room,clock,0.842,447.9,120.5,461.2,142.2
+RT-DETR-R50VD,02_living_room,refrigerator,0.792,490.9,173.7,513.4,285.2
+RT-DETR-R50VD,02_living_room,vase,0.678,350.9,207.5,361.5,230.8
+RT-DETR-R50VD,02_living_room,vase,0.67,550.1,298.7,587.5,401.0
+RT-DETR-R50VD,02_living_room,pottedplant,0.647,231.0,172.7,266.4,213.1
+RT-DETR-R50VD,02_living_room,vase,0.64,242.2,197.3,253.2,212.9
+RT-DETR-R50VD,02_living_room,vase,0.595,166.3,232.8,186.3,268.6
+RT-DETR-R50VD,02_living_room,microwave,0.592,512.4,206.4,526.7,222.0
+RT-DETR-R50VD,02_living_room,tvmonitor,0.578,557.4,207.5,640.0,289.9
+RT-DETR-R50VD,02_living_room,chair,0.503,317.8,219.0,339.8,231.3
+RT-DETR-R50VD,03_group_of_kids,person,0.949,503.3,190.4,640.1,477.8
+RT-DETR-R50VD,03_group_of_kids,person,0.949,116.4,150.8,198.0,380.5
+RT-DETR-R50VD,03_group_of_kids,person,0.944,266.1,96.6,355.4,412.9
+RT-DETR-R50VD,03_group_of_kids,person,0.937,328.5,152.1,415.3,470.0
+RT-DETR-R50VD,03_group_of_kids,person,0.922,410.9,210.1,524.4,478.2
+RT-DETR-R50VD,03_group_of_kids,person,0.902,181.5,120.5,273.5,395.5
+RT-DETR-R50VD,03_group_of_kids,person,0.901,382.6,158.0,462.4,477.9
+RT-DETR-R50VD,03_group_of_kids,person,0.869,45.6,185.3,111.8,394.2
+RT-DETR-R50VD,03_group_of_kids,person,0.867,209.0,173.7,288.3,418.7
+RT-DETR-R50VD,03_group_of_kids,person,0.866,437.5,107.7,497.8,227.2
+RT-DETR-R50VD,03_group_of_kids,tennis racket,0.827,46.8,303.5,95.1,393.5
+RT-DETR-R50VD,03_group_of_kids,tennis racket,0.807,213.0,217.3,272.9,314.8
+RT-DETR-R50VD,03_group_of_kids,person,0.8,352.2,122.2,401.7,208.9
+RT-DETR-R50VD,03_group_of_kids,person,0.736,398.2,119.2,444.0,226.1
+RT-DETR-R50VD,04_street_cars,car,0.942,479.7,235.3,567.5,285.9
+RT-DETR-R50VD,04_street_cars,car,0.937,264.3,233.0,374.0,303.6
+RT-DETR-R50VD,04_street_cars,car,0.929,408.7,235.0,482.2,283.4
+RT-DETR-R50VD,04_street_cars,car,0.925,172.8,236.8,269.6,297.7
+RT-DETR-R50VD,04_street_cars,car,0.918,596.2,242.1,639.8,277.6
+RT-DETR-R50VD,04_street_cars,car,0.91,554.2,240.9,586.1,279.1
+RT-DETR-R50VD,04_street_cars,person,0.851,150.3,224.1,169.9,294.3
+RT-DETR-R50VD,04_street_cars,truck,0.789,29.8,232.0,126.6,326.5
+RT-DETR-R50VD,04_street_cars,person,0.779,258.3,227.5,270.4,247.7
+RT-DETR-R50VD,04_street_cars,car,0.767,100.3,241.8,129.5,275.5
+RT-DETR-R50VD,04_street_cars,person,0.658,187.2,225.6,203.4,248.1
+RT-DETR-R50VD,04_street_cars,car,0.649,460.5,229.7,522.6,259.2
+RT-DETR-R50VD,04_street_cars,car,0.579,28.4,214.3,103.1,266.2
+RT-DETR-R50VD,04_street_cars,truck,0.531,28.4,214.2,103.5,266.3
+RT-DETR-R50VD,05_sidewalk_people,person,0.966,508.7,171.4,632.8,385.6
+RT-DETR-R50VD,05_sidewalk_people,person,0.962,8.6,166.6,132.8,394.3
+RT-DETR-R50VD,05_sidewalk_people,person,0.951,326.4,173.4,398.1,372.2
+RT-DETR-R50VD,05_sidewalk_people,traffic light,0.899,338.4,44.4,399.0,102.8
+RT-DETR-R50VD,05_sidewalk_people,umbrella,0.784,560.7,90.6,640.0,154.7
+RT-DETR-R50VD,05_sidewalk_people,car,0.582,614.2,247.7,639.9,341.4
+RT-DETR-R50VD,05_sidewalk_people,traffic light,0.511,403.2,52.3,435.7,107.7
+RT-DETR-R50VD,06_kitchen,person,0.949,384.7,69.4,499.3,347.3
+RT-DETR-R50VD,06_kitchen,bowl,0.936,30.5,343.3,99.8,385.6
+RT-DETR-R50VD,06_kitchen,bowl,0.874,58.0,288.5,134.3,328.1
+RT-DETR-R50VD,06_kitchen,bowl,0.779,155.1,168.7,183.0,186.0
+RT-DETR-R50VD,06_kitchen,person,0.748,0.1,262.8,61.0,304.4
+RT-DETR-R50VD,06_kitchen,sink,0.686,496.9,200.4,615.3,230.4
+RT-DETR-R50VD,06_kitchen,knife,0.683,557.1,144.5,574.8,187.9
+RT-DETR-R50VD,06_kitchen,bowl,0.603,0.0,302.7,85.8,370.0
+RT-DETR-R50VD,06_kitchen,bowl,0.562,156.8,112.7,174.6,129.7
+RT-DETR-R50VD,06_kitchen,spoon,0.551,531.7,43.8,554.3,127.3
+RT-DETR-R50VD,06_kitchen,oven,0.534,233.5,192.7,396.2,312.2
+RT-DETR-R50VD,06_kitchen,spoon,0.521,193.5,61.1,215.0,129.9
+RT-DETR-R50VD,07_stop_sign,stop sign,0.962,119.5,70.7,255.7,226.0
+RT-DETR-R50VD,08_dog_clutter,dog,0.936,70.9,119.0,216.6,370.1
+RT-DETR-R50VD,08_dog_clutter,book,0.719,86.5,329.0,195.1,425.6
+RT-DETR-R50VD,08_dog_clutter,bed,0.558,0.3,149.2,640.3,425.5
+RT-DETR-R50VD,09_invoice,laptop,0.683,3.3,10.0,2329.1,3505.5
+RT-DETR-R50VD,10_receipt,laptop,0.606,-0.2,185.3,431.8,647.2
+OWLv2-base16-ensemble,01_cats_remotes,a remote control,0.794,40.5,73.3,175.3,117.3
+OWLv2-base16-ensemble,01_cats_remotes,a remote control,0.706,334.8,77.4,368.6,187.3
+OWLv2-base16-ensemble,01_cats_remotes,a cat,0.69,6.6,51.4,329.1,476.8
+OWLv2-base16-ensemble,01_cats_remotes,a cat,0.632,341.8,22.8,640.0,370.2
+OWLv2-base16-ensemble,02_living_room,a television,0.729,5.3,166.4,153.8,267.4
+OWLv2-base16-ensemble,02_living_room,a television,0.477,559.9,209.1,640.0,289.4
+OWLv2-base16-ensemble,02_living_room,a chair,0.371,290.7,217.2,351.1,318.6
+OWLv2-base16-ensemble,02_living_room,a chair,0.297,390.0,219.5,440.7,309.4
+OWLv2-base16-ensemble,02_living_room,a chair,0.29,360.6,220.0,416.9,319.1
+OWLv2-base16-ensemble,02_living_room,a remote control,0.202,142.5,276.6,179.5,286.4
+OWLv2-base16-ensemble,03_group_of_kids,a backpack,0.396,40.8,225.4,96.8,286.7
+OWLv2-base16-ensemble,03_group_of_kids,a backpack,0.266,205.1,163.9,268.5,244.5
+OWLv2-base16-ensemble,04_street_cars,a car,0.433,594.9,242.4,639.9,278.0
+OWLv2-base16-ensemble,04_street_cars,a car,0.417,478.0,235.9,567.9,285.5
+OWLv2-base16-ensemble,04_street_cars,a car,0.406,172.0,235.8,272.0,297.7
+OWLv2-base16-ensemble,04_street_cars,a car,0.402,101.4,241.7,129.1,276.1
+OWLv2-base16-ensemble,04_street_cars,a car,0.4,552.4,241.1,586.5,278.6
+OWLv2-base16-ensemble,04_street_cars,a car,0.397,262.8,231.3,375.5,302.3
+OWLv2-base16-ensemble,04_street_cars,a car,0.393,407.2,234.5,482.2,282.9
+OWLv2-base16-ensemble,04_street_cars,a bicycle,0.387,279.5,214.9,341.3,236.0
+OWLv2-base16-ensemble,04_street_cars,a car,0.38,19.5,229.5,124.1,328.4
+OWLv2-base16-ensemble,04_street_cars,a car,0.35,340.3,227.5,374.3,267.9
+OWLv2-base16-ensemble,04_street_cars,a car,0.342,460.5,231.0,519.5,250.6
+OWLv2-base16-ensemble,04_street_cars,a stop sign,0.303,595.7,197.0,607.0,207.7
+OWLv2-base16-ensemble,04_street_cars,a stop sign,0.291,596.0,206.6,606.5,217.1
+OWLv2-base16-ensemble,04_street_cars,a car,0.275,267.5,238.3,279.4,250.1
+OWLv2-base16-ensemble,04_street_cars,a stop sign,0.252,595.6,196.4,607.2,224.6
+OWLv2-base16-ensemble,04_street_cars,a car,0.237,460.5,231.1,520.8,277.5
+OWLv2-base16-ensemble,04_street_cars,a car,0.222,29.1,214.1,106.3,274.1
+OWLv2-base16-ensemble,04_street_cars,a car,0.221,405.9,237.4,420.2,267.9
+OWLv2-base16-ensemble,05_sidewalk_people,a backpack,0.344,46.8,202.5,81.3,267.4
+OWLv2-base16-ensemble,05_sidewalk_people,a cup,0.302,344.8,227.0,356.5,246.2
+OWLv2-base16-ensemble,05_sidewalk_people,a television,0.202,402.7,51.7,437.7,108.3
+OWLv2-base16-ensemble,05_sidewalk_people,a television,0.2,339.5,44.4,397.8,103.9
+OWLv2-base16-ensemble,07_stop_sign,a stop sign,0.759,119.4,69.8,256.0,225.2
+OWLv2-base16-ensemble,07_stop_sign,a stop sign,0.349,202.3,259.4,220.7,287.7
+OWLv2-base16-ensemble,08_dog_clutter,a dog,0.544,73.1,121.7,220.5,374.5
+OWLv2-base16-ensemble,08_dog_clutter,a backpack,0.21,251.2,152.4,464.6,323.3
+GroundingDINO-tiny,01_cats_remotes,a remote control,0.425,331.6,74.2,370.8,187.3
+GroundingDINO-tiny,01_cats_remotes,a remote control,0.439,38.6,69.4,176.9,118.0
+GroundingDINO-tiny,01_cats_remotes,a cat a dog,0.366,13.0,50.7,317.5,471.1
+GroundingDINO-tiny,02_living_room,a television,0.779,5.5,162.7,156.1,267.1
+GroundingDINO-tiny,02_living_room,a bottle,0.361,549.1,300.7,587.6,401.0
+GroundingDINO-tiny,02_living_room,a person,0.593,411.1,154.7,469.9,297.9
+GroundingDINO-tiny,03_group_of_kids,a person,0.443,201.7,171.8,308.4,420.9
+GroundingDINO-tiny,03_group_of_kids,a person,0.416,410.9,208.3,526.5,477.1
+GroundingDINO-tiny,03_group_of_kids,a person,0.401,262.5,94.5,356.2,412.1
+GroundingDINO-tiny,03_group_of_kids,a person,0.385,506.8,188.4,637.9,477.0
+GroundingDINO-tiny,03_group_of_kids,a person,0.39,326.9,150.6,415.8,469.3
+GroundingDINO-tiny,03_group_of_kids,a person,0.424,115.0,147.0,198.2,382.0
+GroundingDINO-tiny,03_group_of_kids,a person,0.399,40.3,182.2,114.8,396.8
+GroundingDINO-tiny,03_group_of_kids,a bicycle,0.366,43.0,301.6,99.3,397.2
+GroundingDINO-tiny,04_street_cars,a person,0.507,147.0,221.1,173.0,294.8
+GroundingDINO-tiny,04_street_cars,a car,0.413,262.8,228.0,374.9,304.3
+GroundingDINO-tiny,05_sidewalk_people,a cup,0.545,343.4,225.3,357.4,247.3
+GroundingDINO-tiny,05_sidewalk_people,a person,0.473,324.3,170.7,400.0,373.0
+GroundingDINO-tiny,05_sidewalk_people,a chair,0.373,208.6,239.8,335.3,374.3
+GroundingDINO-tiny,05_sidewalk_people,a person,0.448,507.4,168.3,632.9,387.6
+GroundingDINO-tiny,05_sidewalk_people,a person,0.449,6.9,163.9,134.0,396.6
+GroundingDINO-tiny,05_sidewalk_people,a stop sign a television,0.373,336.6,42.1,400.1,104.8
+GroundingDINO-tiny,05_sidewalk_people,a backpack,0.377,245.3,224.6,316.1,295.4
+GroundingDINO-tiny,06_kitchen,a person,0.453,382.8,66.7,499.8,349.4
+GroundingDINO-tiny,06_kitchen,a bottle,0.36,215.6,236.6,257.7,299.6
+GroundingDINO-tiny,06_kitchen,a cup,0.355,142.9,266.2,175.3,302.3
+GroundingDINO-tiny,07_stop_sign,a stop sign,0.412,117.3,67.9,256.7,228.6
+GroundingDINO-tiny,07_stop_sign,a television,0.394,14.7,264.8,35.1,288.9
+GroundingDINO-tiny,07_stop_sign,a car,0.355,20.0,257.5,145.2,314.8
+GroundingDINO-tiny,08_dog_clutter,a backpack,0.435,251.6,147.2,462.6,324.8
+GroundingDINO-tiny,10_receipt,a table,0.419,2.6,180.8,429.8,643.8
